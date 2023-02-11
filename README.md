@@ -8,6 +8,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/dheeraj-moha
 ## 📚 Table of Contents
 - [DeepLearning](#deep-learning)
 - [Machine Learning](#machine-learning)
+- [Algorithm Design](#algorithm_design)
 - [Big Data Hadoop and Spark Developer](#bigdatahadoopandsparkdeveloper)
 - [Natural Language Processing and Speech Recognition](#naturallanguageprocessingandspeechrecognition)
 - [Business Analysics with Excel](#businessanalysicswithexcels)
@@ -36,7 +37,16 @@ Libraries: pandas, numpy, matplotlib, seaborn
 |---|---|---|---|
 | [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
 ***
+# Algorithm-Design
 
+Skills: 
+
+Libraries:
+
+| Project Name | Description | Libraries | Technique |
+|---|---|---|---|
+| [Network Routing and Graph Paths](https://github.com/Dheeraj-M1/Algorithm_Design) | The code imports the csv and pandas library, as well as the numpy and random libraries. Then, it reads a file called "Amazon0302.txt" and creates a dataframe, with the first two columns labeled "source" and "target". A third column "weight" is added to the dataframe with random values in the range of 1 to 100. The dataframe is then saved to a file named "Edge_weight.txt". The code then defines a function to implement Dijkstra's algorithm and uses this to find the shortest path between all unique "target" nodes and a specific source node (2). The data is read from a file named "Edge_weight.txt" and stored in a Pandas dataframe. The data is then manipulated to create a dictionary of edges with their corresponding weights, which is used in the implementation of Dijkstra's algorithm. The shortest path and the distances between nodes are calculated and stored in a list called "a". The code prints the shortest path for each unique "target" node. | Pandas, random, pyplot, sorted, Numpy | Reading the Data, Data Manupulation, Data Export, Data Visualization |
+***
 # Big Data Hadoop and Spark Developer
 
 Level: Intermediate big data hadoopand spark developer
