@@ -21,9 +21,9 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/dheeraj-moha
 
 Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 
-| Project Name | Description | SQL Functions |
+| Project Name | Description | 
 |---|---|---|
-| 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| [Lending-Club-Loan-Data-Analysis/](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. |   
 | 🎬 [Marketing Analytics Case Study - Ongoing](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md)  |  |  | 
 | 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |  |  |  
 | 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) |  |  |  
