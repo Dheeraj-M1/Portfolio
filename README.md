@@ -9,6 +9,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/dheeraj-moha
 - [DeepLearning](#deep-learning)
 - [Machine Learning](#machine-learning)
 - [Algorithm Design](#algorithm_design)
+- [PriceComp](#PriceComp)
 - [Big Data Hadoop and Spark Developer](#bigdatahadoopandsparkdeveloper)
 - [Natural Language Processing and Speech Recognition](#naturallanguageprocessingandspeechrecognition)
 - [Business Analysics with Excel](#businessanalysicswithexcels)
@@ -46,6 +47,16 @@ Libraries:
 | Project Name | Description | Libraries | Technique |
 |---|---|---|---|
 | [Network Routing and Graph Paths](https://github.com/Dheeraj-M1/Algorithm_Design) | The code imports the csv and pandas library, as well as the numpy and random libraries. Then, it reads a file called "Amazon0302.txt" and creates a dataframe, with the first two columns labeled "source" and "target". A third column "weight" is added to the dataframe with random values in the range of 1 to 100. The dataframe is then saved to a file named "Edge_weight.txt". The code then defines a function to implement Dijkstra's algorithm and uses this to find the shortest path between all unique "target" nodes and a specific source node (2). The data is read from a file named "Edge_weight.txt" and stored in a Pandas dataframe. The data is then manipulated to create a dictionary of edges with their corresponding weights, which is used in the implementation of Dijkstra's algorithm. The shortest path and the distances between nodes are calculated and stored in a list called "a". The code prints the shortest path for each unique "target" node. | Pandas, random, pyplot, sorted, Numpy | Reading the Data, Data Manupulation, Data Export, Data Visualization |
+***
+# PriceComp(A Marketplace Product Price Comparator App)
+
+Skills: 
+
+Libraries:
+
+| Project Name | Description | Libraries | Technique |
+|---|---|---|---|
+| [PriceComp(A Marketplace Product Price Comparator App)]((https://github.com/Dheeraj-M1/PriceComp)) | Project domain and proposal:➢ Intended use of the system: who and how the system will be used.■ System will be used by consumers to shop for an item and find the lowest price.The system will present a keyword search bar where users can input free text.➢ Its overall functionality: what will the system do, how will the system help its users accomplish their tasks.■ The system will scrape marketplace websites finding pricing of the item searched for by the user.■ The scraper will extract key pricing (and other) information and present the user with different pricing of the same or similar item at different marketplace websites. ■ After the user inputs the keyword search for the desired marketplace item, the system will handle all calls to display price and item comparisons to the user. ➢ Main components of the system: break down the system into logical or architectural components and provide the rationale for this breakdown. ■ The Project will feature three main components: ● System will feature a user interface to allow the user to input their search. ● The system will also utilize a python backend to use the user’s call to scrape the web for their product. ● A user will be able to see some output information about their product visible to them on their UI.| Python | Reading the Data, Data Manupulation, Data Export, Data Visualization |
 ***
 # Big Data Hadoop and Spark Developer
 
