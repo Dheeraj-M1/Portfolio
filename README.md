@@ -1,21 +1,16 @@
 
-Hi there! 🙋🏻‍♀️
+Hi there! 🙋🏻‍
 
 Welcome to my Portfolio 
 
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/dheeraj-mohanbabu/) about my projects!
 
-## 📚 Table of Contents
+##  Table of Contents
 - [DeepLearning](#deep-learning)
-- [Machine Learning](#machine-learning)
 - [Algorithm Design](#algorithm_design)
 - [PriceComp](#PriceComp)
-- [Big Data Hadoop and Spark Developer](#bigdatahadoopandsparkdeveloper)
 - [Natural Language Processing and Speech Recognition](#naturallanguageprocessingandspeechrecognition)
-- [Business Analysics with Excel](#businessanalysicswithexcels)
-- [Power BI](#powerbi)
-- [SQL](#sql)
-- [Tableau](#tableau)
+
 
 # Deep-Learning
 
@@ -28,16 +23,6 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/dheeraj-moha
 
 ***
 
-# Machine-Learning
-
-Skills: Data cleaning, wrangling, visualisation, analysis
-
-Libraries: pandas, numpy, matplotlib, seaborn
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-***
 # Algorithm-Design
 
 Skills: 
@@ -58,62 +43,13 @@ Libraries:
 | [PriceComp(A Marketplace Product Price Comparator App)](https://github.com/Dheeraj-M1/PriceComp) | Project domain and proposal:<br>➢ Intended use of the system: who and how the system will be used.<br>■ System will be used by consumers to shop for an item and find the lowest price.<br>The system will present a keyword search bar where users can input free text.<br>➢ Its overall functionality: what will the system do, how will the system help its users accomplish their tasks.<br>■ The system will scrape marketplace websites finding pricing of the item searched for by the user.<br>■ The scraper will extract key pricing (and other) information and present the user with different pricing of the same or similar item at different marketplace websites. <br>■ After the user inputs the keyword search for the desired marketplace item, the system will handle all calls to display price and item comparisons to the user. <br>➢ Main components of the system: break down the system into logical or architectural components and provide the rationale for this breakdown. <br>■ The Project will feature three main components: <br>● System will feature a user interface to allow the user to input their search. <br>● The system will also utilize a python backend to use the user’s call to scrape the web for their product. <br>● A user will be able to see some output information about their product visible to them on their UI. | Python | Reading the Data, Data Manupulation, Data Export, Data Visualization |
 
 ***
-# Big Data Hadoop and Spark Developer
 
-Level: Intermediate big data hadoopand spark developer
-
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-***
 
 # Natural Language Processing and Speech
 
 Level: Intermediate Natural Language Processing and Speech
 
 Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-
-***
-# Business Analysics with Excels
-
-Skills: Data cleaning, wrangling, visualisation, analysis
-
-Libraries: pandas, numpy, matplotlib, seaborn
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-
-***
-# Power BI
-
-Level: Intermediate Power BI
-
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-
-***
-# SQL
-
-Level: Intermediate SQL
-
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-
-***
-# Tableau
 
 | Project Name | Description | Libraries | Technique |
 |---|---|---|---|
