@@ -9,7 +9,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/dheeraj-moha
 - [DeepLearning](#deep-learning)
 - [Algorithm Design](#algorithm_design)
 - [PriceComp](#PriceComp)
-- [Natural Language Processing and Speech Recognition](#naturallanguageprocessingandspeechrecognition)
+
 
 
 # Deep-Learning
@@ -44,15 +44,3 @@ Libraries:
 
 ***
 
-
-# Natural Language Processing and Speech
-
-Level: Intermediate Natural Language Processing and Speech
-
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
-
-| Project Name | Description | Libraries | Technique |
-|---|---|---|---|
-| [Lending Club Loan Data Analysis](https://github.com/Dheeraj-M1/DeepLearning/tree/main/Lending-Club-Loan-Data-Analysis) | The code performs a loan default analysis using Lending Club Loan Data. It uses Python libraries such as pandas, numpy, sklearn, matplotlib, and seaborn. The code starts by loading the loan data into a Pandas DataFrame and checking for missing data. Next, it performs exploratory data analysis and preprocessing, including filling missing values, feature scaling, and one-hot encoding. Finally, the code trains and evaluates machine learning models including ExtraTreesClassifier, RandomForestClassifier, and MLPClassifier to predict loan default. The results are evaluated using cross-validation techniques and visualized using data visualization techniques. | Pandas, Numpy, SKlearn, Matplotlib, Seaborn | Machine Learning, Exploratory Data Analysis, Cross-Validation, Data Visualization |
-
-***
